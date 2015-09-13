@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>añañay Ajax</title>
-        <!-- <script src=""></script> -->
+        <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
         <script src="main.js"></script> <!-- Main javascript file-->
     </head>
     <body>
