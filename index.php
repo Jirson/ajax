@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>añañay Ajax</title>
         <!-- <script src=""></script> -->
+        <script src="main.js"></script> <!-- Main javascript file-->
     </head>
     <body>
         <form action="" method="POST" id="formAjax">
